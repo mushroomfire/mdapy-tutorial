@@ -1,0 +1,16 @@
+# LAMMPS data file written by Ovito 3.0.0-dev581
+2 atoms
+1 atom types
+0.0 2.93573192 xlo xhi
+0.0 2.5424184214 ylo yhi
+0.0 4.64085615 zlo zhi
+-1.46786596 0.0 0.0 xy xz yz
+
+Masses
+
+1 0.0  # Ti
+
+Atoms  # atomic
+
+1 1 -1.4678659177e-08 1.6949456228 1.1602140375
+2 1 1.4678659747 0.8474727987 3.4806421125

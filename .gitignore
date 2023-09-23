@@ -1,0 +1,6 @@
+
+/.vscode/
+/.ipy*/
+/frame/*.alloy
+/frame/*output*
+/traj/*output*
