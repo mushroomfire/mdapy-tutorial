@@ -3,4 +3,6 @@
 /.ipy*/
 /frame/*.alloy
 /frame/*output*
+/frame/fcc.data
+/frame/poly.dump
 /traj/*output*
