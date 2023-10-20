@@ -5,4 +5,5 @@
 /frame/*output*
 /frame/fcc.data
 /frame/poly.dump
+/frame/fcc_111.dump
 /traj/*output*
