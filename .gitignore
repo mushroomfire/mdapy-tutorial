@@ -7,3 +7,6 @@
 /frame/poly.dump
 /frame/fcc_111.dump
 /traj/*output*
+/uninstall_jupyter.sh
+/frame/.ipynb_checkpoints/*
+/.virtual_documents/*
