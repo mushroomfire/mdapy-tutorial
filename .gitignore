@@ -1,7 +1,7 @@
 
 /.vscode/
 /.ipy*/
-/frame/*.alloy
+/frame/Al.eam.alloy
 /frame/*output*
 /frame/fcc.data
 /frame/poly.dump
